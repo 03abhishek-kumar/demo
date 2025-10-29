@@ -1,3 +1,4 @@
 # demo
-this is my first repo
-i am learning github
+This is my first repo.
+<br>
+I am learning github.
