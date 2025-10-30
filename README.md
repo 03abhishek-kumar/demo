@@ -9,5 +9,5 @@ hi , i am Aditya and i am contributer in this project
 <br>
 Hi, Aditya nice to have you as a contibutor.
 <br>
-thenks , Abheshek for inviting me in this project , i will assure you that i will give my best to this project
+thenks , Abhishek for inviting me in this project , i will assure you that i will give my best to make this project Awesome!!
 <br>
